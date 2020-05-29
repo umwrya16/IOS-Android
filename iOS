@@ -1,5 +1,17 @@
 [
   {
+       "Name" : "25 spins",
+       "Date":"29/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)LUPKy8BayaQuRf9giNkwoRBGHD0cjMmAUg8Ub3gMo9g&campaign=(_)LUPKy8BayaQuRf9giNkwoRBGHD0cjMmAUg8Ub3gMo9g&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"set blast",
+       "Date":"29/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200529"
+   },
+  {
        "Name":"25 spins",
        "Date":"28/05/2020",
        "AdActivate":"yes",
@@ -38,20 +50,20 @@
    {
        "Name":"2 million",
        "Date":"26/05/2020",
-       "AdActivate":"no",
+       "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBhkeEcd_20200526"
    },
   
    {
        "Name":"2 million-- new",
        "Date":"26/05/2020",
-       "AdActivate":"no",
+       "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIIpYWBE_20200526"
    },
    {
        "Name":"25 spin-- new",
        "Date":"26/05/2020",
-       "AdActivate":"no",
+       "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBjANVnh_20200526"
    },
   {
@@ -151,33 +163,10 @@
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200522"
    },
     {
-       "Name":"2 million coin",
-       "Date":"22/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSFljkZK_20200521"
-   },
-    {
-       "Name":"25 Spins",
-       "Date":"22/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBKLgxHX_20200522"
-   },
-    {
-       "Name":"2 mil coin -21/05/2020",
-       "Date":"21/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSFljkZK_20200521"
-   },
-    {
-       "Name":"10 spin, 1 mil coin -21/05/2020",
-       "Date":"21/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBawuHFH_20200521"
-   },
-    {
        "Name":"10 spin, 1 mil coin -21/05/2020",
        "Date":"21/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIbXOOPZ_20200521"
    }
 ]
+

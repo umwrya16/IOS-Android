@@ -1,4 +1,16 @@
 [
+   {
+       "Name":"25 spins",
+       "Date":"30/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIExWRzM_20200530"
+   },
+  {
+       "Name":"10 spins + 1 million",
+       "Date":"30/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBMMFURx_20200530"
+   },
   {
        "Name":"2 Million Coin",
        "Date":"30/05/2020",
@@ -161,24 +173,6 @@
        "Date":"23/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_gt:1h_20200523"
-   },
-    {
-       "Name":"25 free spin",
-       "Date":"22/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBmrKSbb_20200522"
-   },
-    {
-       "Name":"10 spins, 10 million",
-       "Date":"22/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIYWUvnt_20200522"
-   },
-    {
-       "Name":"Set Blast",
-       "Date":"22/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200522"
    },
     {
        "Name":"10 spin, 1 mil coin -21/05/2020",

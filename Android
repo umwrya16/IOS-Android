@@ -1,5 +1,23 @@
 [
   {
+       "Name":"2 Million coin",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBmPIlQo_20200606"
+   },
+  {
+       "Name":"25 free spins",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)w-DwMtKL-ncyiePVMQmyYV9CfZO5npcz51NMp-wwy7U&campaign=(_)w-DwMtKL-ncyiePVMQmyYV9CfZO5npcz51NMp-wwy7U&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"village master",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200606"
+   },
+  {
        "Name":"25 free spins",
        "Date":"5/06/2020",
        "AdActivate":"yes",
@@ -82,90 +100,5 @@
        "Date":"2/06/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIBzgNjQ_20200602"
-   },
-  {
-       "Name":"2 Million",
-       "Date":"2/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBSrCirQ_20200602"
-   },
-  {
-       "Name":"2 Million Coin",
-       "Date":"2/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)cQDPwe35ORxmFL2jtx8H7bkxXQFVno3xcKDXyeRzYM0&campaign=(_)cQDPwe35ORxmFL2jtx8H7bkxXQFVno3xcKDXyeRzYM0&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
-   },
-  {
-       "Name":"25 Spins",
-       "Date":"1/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBMATiji_20200601"
-   },
-  {
-       "Name":"10 spins - 1 million coin",
-       "Date":"1/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIBEQGlU_20200601"
-   },
-  {
-       "Name":"2 Million coin",
-       "Date":"1/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSkhdcPW_20200601"
-   },
-  {
-       "Name":"25 free spins",
-       "Date":"1/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)t-bfAT4kVaX5OdJtAMLJtKmt2IF53WisnMGMFMMxHj8&campaign=(_)t-bfAT4kVaX5OdJtAMLJtKmt2IF53WisnMGMFMMxHj8&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
-   },
-  {
-       "Name":"2 Million coin",
-       "Date":"1/06/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzUAhDx_20200601"
-   },
-  {
-       "Name":"25 SPINS",
-       "Date":"31/05/2020",
-       "AdActivate":"yes",
-       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBVxomgH_20200531"
-   },
-     {
-       "Name":"2 Million Coin",
-       "Date":"31/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)DiH-Eh28n9XX6PLRioLx3C5MpWMKsZEmkj8QTw00_xc&campaign=(_)DiH-Eh28n9XX6PLRioLx3C5MpWMKsZEmkj8QTw00_xc&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
-   },
-  {
-       "Name":"25 SPINS",
-       "Date":"31/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBaFbLvC_20200531"
-   },
-  {
-       "Name":"Village Master",
-       "Date":"31/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200531"
-   },
-  {
-       "Name":"25 spins",
-       "Date":"30/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBeoYTUx_20200530"
-   },
-   {
-       "Name":"25 spins",
-       "Date":"30/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIExWRzM_20200530"
-   },
-  {
-       "Name":"10 spins + 1 million",
-       "Date":"30/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBMMFURx_20200530"
    }
-
 ]

@@ -19,7 +19,49 @@
    },
   {
        "Name":"2 Million ",
-       "Date":"13/07/2020",
+       "Date":"12/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+     {
+       "Name":"25 Spins + 2 million",
+       "Date":"12/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+  {
+       "Name":"25 Spins ",
+       "Date":"12/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+  {
+       "Name":"10 Spins + 2 Million ",
+       "Date":"11/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+     {
+       "Name":"2 Million ",
+       "Date":"11/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+     {
+       "Name":"25 Spins + 2 million",
+       "Date":"11/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+  {
+       "Name":"25 Spins ",
+       "Date":"10/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://www.facebook.com/coinmaster"
+   },
+  {
+       "Name":"10 Spins + 2 Million ",
+       "Date":"10/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://www.facebook.com/coinmaster"
    }

@@ -1,30 +1,42 @@
 [ 
   {
-       "Name":"25 Spins ##NEW",
+       "Name":"2 Million @NEW",
+       "Date":"22/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)WgIQGzAafc4VRJhqtpl4zlBTIzqQZjlpM_rZQXWi-zE&campaign=(_)WgIQGzAafc4VRJhqtpl4zlBTIzqQZjlpM_rZQXWi-zE&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"2 Million @NEW",
+       "Date":"22/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBtaItSW_20200722"
+   },
+  {
+       "Name":"25 Spins ",
        "Date":"21/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBwDIoTd_20200721"
    },
   {
-       "Name":"25 Spins ^^NEW",
+       "Name":"25 Spins ",
        "Date":"21/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSCpeXIl_20200721"
    },
   {
-       "Name":"10 Spins + 1 Million ^^NEW",
+       "Name":"10 Spins + 1 Million",
        "Date":"21/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIFzMCOD_20200721"
    },
     {
-       "Name":"2 Millions ^^NEW",
+       "Name":"2 Millions",
        "Date":"21/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)PWVshi4g8iug4GmLyxYG9Bge51jYlKzbVOiCIAwfbGE&campaign=(_)PWVshi4g8iug4GmLyxYG9Bge51jYlKzbVOiCIAwfbGE&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
   {
-       "Name":"25 SPINS ^^NEW",
+       "Name":"25 SPINS",
        "Date":"21/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBwgMoeu_20200721"

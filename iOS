@@ -1,30 +1,42 @@
 [ 
   {
-       "Name":"25 spins ##NEW",
+       "Name":"2 Millions ##NEW",
+       "Date":"30/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBfSQuzA_20200730"
+   },
+  {
+       "Name":"10 spins-1Million ##NEW",
+       "Date":"30/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)z5XHfS8Tmv_BqoDf79y0BH6qbku9deLSg8iLK1MqpGs&campaign=(_)z5XHfS8Tmv_BqoDf79y0BH6qbku9deLSg8iLK1MqpGs&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"25 spins",
        "Date":"29/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBOiNFwn_20200729"
    },
   {
-       "Name":"25 spins &&NEW",
+       "Name":"25 spins ",
        "Date":"29/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIcTIwMd_20200729"
    },
   {
-       "Name":"10 Spins-1Million &&NEW",
+       "Name":"10 Spins-1Million",
        "Date":"29/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBjIlMXQ_20200729"
    },
      {
-       "Name":"10 Spins-1Million &&NEW",
+       "Name":"10 Spins-1Million",
        "Date":"29/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)tGwGKIJ55_bMJEvQLdOi1X-64Id0Z_VHvAbBm_PZVts&campaign=(_)tGwGKIJ55_bMJEvQLdOi1X-64Id0Z_VHvAbBm_PZVts&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
      {
-       "Name":"Vilage Master &&NEW",
+       "Name":"Vilage Master",
        "Date":"29/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200729"

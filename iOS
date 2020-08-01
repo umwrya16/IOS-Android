@@ -1,42 +1,54 @@
 [ 
   {
        "Name":"25 Spins @@NEW",
+       "Date":"1/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBbFNHWz_20200801"
+   },
+     {
+       "Name":"25 Spins @@NEW",
+       "Date":"1/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)w5Kq__xDSgX2XZdTwQMtczAwYnz1LOAHXVrXgxRLagc&campaign=(_)w5Kq__xDSgX2XZdTwQMtczAwYnz1LOAHXVrXgxRLagc&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"25 Spins ",
        "Date":"31/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBGVwWkq_20200731"
    },
   {
-       "Name":"2 Millions @@NEW",
+       "Name":"2 Millions ",
        "Date":"31/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIjihupK_20200731"
    },
   {
-       "Name":"25 Spins @@NEW",
+       "Name":"25 Spins ",
        "Date":"31/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCByPvdOE_20200731"
    },
   {
-       "Name":"2 Millions @@NEW",
+       "Name":"2 Millions ",
        "Date":"31/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)KwK_7rKFQ7ZUg3HA7nhEeO1kAK4FQkfh_mZfsxX3IMc&campaign=(_)KwK_7rKFQ7ZUg3HA7nhEeO1kAK4FQkfh_mZfsxX3IMc&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
   {
-       "Name":"25 Spins ##NEW",
+       "Name":"25 Spins ",
        "Date":"30/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBWQYRgF_20200730"
    },
   {
-       "Name":"2 Millions ##NEW",
+       "Name":"2 Millions",
        "Date":"30/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBfSQuzA_20200730"
    },
   {
-       "Name":"10 spins-1Million ##NEW",
+       "Name":"10 spins-1Million",
        "Date":"30/07/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)z5XHfS8Tmv_BqoDf79y0BH6qbku9deLSg8iLK1MqpGs&campaign=(_)z5XHfS8Tmv_BqoDf79y0BH6qbku9deLSg8iLK1MqpGs&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"

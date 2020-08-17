@@ -3,6 +3,12 @@
        "Name":"2 Million @@NEW",
        "Date": "17/08/2020",
        "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBhgVSTg_20200817"
+   },
+   {
+       "Name":"2 Million @@NEW",
+       "Date": "17/08/2020",
+       "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIAUdlMs_20200817"
    },
    {

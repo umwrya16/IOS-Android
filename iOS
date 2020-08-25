@@ -1,36 +1,48 @@
 [    
       {
        "Name":"25 Spins ##NEW",
+       "Date": "25/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBLBvPLF_20200825"
+   },
+       {
+       "Name":"10 Spins-1Million ##NEW",
+       "Date": "25/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)7CAR_ofYExTR67xodpJpnlyot7DUjHUBiy6Cvllz13w&campaign=(_)7CAR_ofYExTR67xodpJpnlyot7DUjHUBiy6Cvllz13w&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+      {
+       "Name":"25 Spins ",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBbJQhHI_20200824"
    },
          {
-       "Name":"10 Spin-1Million ##NEW",
+       "Name":"10 Spin-1Million ",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSuRnIBU_20200824"
    },
       {
-       "Name":"Village Master ##NEW",
+       "Name":"Village Master",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200824"
    },
          {
-       "Name":"10 Spins-1Million ##NEW",
+       "Name":"10 Spins-1Million",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIJvuMWj_20200824"
    },
          {
-       "Name":"10 Spins-1Million ##NEW",
+       "Name":"10 Spins-1Million",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBmRhhVX_20200824"
    },
       {
-       "Name":"25 Spins ##NEW",
+       "Name":"25 Spins",
        "Date": "24/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)Z-_KBwK9ckILjRMsnPPfbYEBeMHynZaaWpdqYVSB7KU&campaign=(_)Z-_KBwK9ckILjRMsnPPfbYEBeMHynZaaWpdqYVSB7KU&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"

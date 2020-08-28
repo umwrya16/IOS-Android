@@ -1,24 +1,42 @@
 [    
       {
-       "Name":"2 Million @NEW",
+       "Name":"2 Million",
+       "Date": "28/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)Gb7JuKyrs9I7qNmexruPiOhJA1Eoa7xRjzJBgZP2bE8&campaign=(_)Gb7JuKyrs9I7qNmexruPiOhJA1Eoa7xRjzJBgZP2bE8&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+         {
+       "Name":"25 Spins",
+       "Date": "28/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBOgwRIy_20200828"
+   },
+         {
+       "Name":"10 Spins + 1 Million",
+       "Date": "28/08/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIdUGKBd_20200828"
+   },
+      {
+       "Name":"2 Million",
        "Date": "27/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSHLEYkb_20200827"
    },
       {
-       "Name":"25 Spins @NEW",
+       "Name":"25 Spins",
        "Date": "27/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBkzCGII_20200827"
    },
       {
-       "Name":"10 Spins-Million @NEW",
+       "Name":"10 Spins-Million",
        "Date": "27/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)i61LFpPdGp4ErtFFmISc_7b2NjTYQW4fvho1EILAEYs&campaign=(_)i61LFpPdGp4ErtFFmISc_7b2NjTYQW4fvho1EILAEYs&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
          {
-       "Name":"10 Spins-1Million @NEW",
+       "Name":"10 Spins-1Million",
        "Date": "27/08/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBlpyriv_20200827"

@@ -1,5 +1,17 @@
 [  
    {
+       "Name":"2 Million",
+       "Date": "12/09/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBWGIRCH_20200912"
+   },
+      {
+       "Name":"10 Spins-1Million",
+       "Date": "12/09/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSLDhppD_20200911"
+   },
+   {
        "Name":"25 Spins-NEW",
        "Date": "11/09/2020",
        "AdActivate":"yes",

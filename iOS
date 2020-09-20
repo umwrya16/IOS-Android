@@ -1,6 +1,18 @@
 [  
    {
        "Name":"10 Spins + 1Million",
+       "Date": "20/09/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)4AVbNYuelyGzm3SQQb4f8jcnYeY4xIxM3Q1phBOwaoA&campaign=(_)4AVbNYuelyGzm3SQQb4f8jcnYeY4xIxM3Q1phBOwaoA&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+      {
+       "Name":"2 Million",
+       "Date": "20/09/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBWxsDSZ_20200920"
+   },
+   {
+       "Name":"10 Spins + 1Million",
        "Date": "19/09/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIrSdtLf_20200919"

@@ -3,6 +3,18 @@
        "Name":"25 Spins",
        "Date": "21/09/2020",
        "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBxfIyFA_20200921"
+   },
+      {
+       "Name":"2 Million",
+       "Date": "21/09/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIOdWsyP_20200921"
+   },
+   {
+       "Name":"25 Spins",
+       "Date": "21/09/2020",
+       "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)_VEr7TlBye8RUnqwK8IYs1kvgU5veae3oOb0U39cihg"
    },
    {

@@ -1,33 +1,44 @@
 [
-
 {
-       "Name":"40 Spins-25Million *NEW",
+       "Name":"10 Spins-2Million *NEW",
+       "Date": "24/10/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)buhKVPLCcx-1DJjRjdxnxnznTnZmBTu_62CI5578LXE&campaign=(_)buhKVPLCcx-1DJjRjdxnxnznTnZmBTu_62CI5578LXE&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+   {
+       "Name":"25 Spins *NEW",
+       "Date": "24/10/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBsISdSQ_20201024"
+   },
+{
+       "Name":"40 Spins-25Million",
        "Date": "23/10/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBGhosts_20201023"
    },
 
 {
-       "Name":"10 Spins-1Million *NEW",
+       "Name":"10 Spins-1Million",
        "Date": "23/10/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSIsoqiT_20201023"
    },
 
 {
-       "Name":"10 Spins-1Million *NEW",
+       "Name":"10 Spins-1Million",
        "Date": "23/10/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIhMgaCv_20201023"
    },
 {
-       "Name":"25 Spins *NEW",
+       "Name":"25 Spins",
        "Date": "23/10/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBDKXABq_20201023"
    },
    {
-       "Name":"2 Million *NEW",
+       "Name":"2 Million",
        "Date": "23/10/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)gEJusPXVVQGk9BIEy7Qa4-ONJp13FUFAexUPE686zik&campaign=(_)gEJusPXVVQGk9BIEy7Qa4-ONJp13FUFAexUPE686zik&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"

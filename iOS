@@ -1,6 +1,18 @@
 [
 
 {
+       "Name":"SET BLAST ##NEW",
+       "Date": "26/11/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20201126"
+ },
+{
+       "Name":"25 Spins ##NEW",
+       "Date": "26/11/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBFuvxeF_20201126"
+ },
+{
        "Name":"25 Spins ##NEW",
        "Date": "26/11/2020",
        "AdActivate":"yes",

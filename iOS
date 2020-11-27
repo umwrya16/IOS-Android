@@ -1,6 +1,12 @@
 [
 
 {
+       "Name":"Crazy Coin Event ##NEW",
+       "Date": "27/11/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_cc:5m_20201127"
+ },
+{
        "Name":"2 Million ##NEW",
        "Date": "27/11/2020",
        "AdActivate":"yes",

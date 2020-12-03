@@ -19,7 +19,7 @@
           "Link8" : "",
           "AdOne" : "yes",
           "AdTwo" : "yes",
-          "AdType" : "admob"
+          "Type" : "admob"
  },
  {
           "Date" : "01/12/2020",
@@ -41,7 +41,7 @@
           "Link8" : "",
           "AdOne" : "yes",
           "AdTwo" : "yes",
-          "AdType" : "admob"
+          "Type" : "admob"
   },
    {
           "Date" : "30/11/2020",
@@ -63,6 +63,6 @@
           "Link8" : "",
           "AdOne" : "yes",
           "AdTwo" : "yes",
-          "AdType" : "admob"
+          "Type" : "admob"
   } 
 ]

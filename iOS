@@ -1,5 +1,16 @@
 [
-
+{
+       "Name": "25 Spins &&NEW",
+       "Date": "28/12/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)__n08KmwkkLXKfDh4XFw9UsgXRbdsMQTOAqpSCwg37U"
+ },
+ {
+       "Name": "25 Spins ##NEW",
+       "Date": "28/12/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBylJDOG_20201228"
+ },
 {
        "Name": "25 Spins",
        "Date": "27/12/2020",
@@ -13,13 +24,13 @@
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIjkgXkR_20201227"
  },
  {
-       "Name": "10 Spins-1 Million ##NEW",
+       "Name": "10 Spins-1 Million",
        "Date": "27/12/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?ref=cm&c=(_)iQEhAY-n-72rO31hdOpZIu8IrTPwCls6aMFoz9OYTFI"
  },
   {
-       "Name": "2 Million ##NEW",
+       "Name": "2 Million",
        "Date": "27/12/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBaXhqkx_20201227"

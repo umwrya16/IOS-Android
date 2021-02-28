@@ -1,25 +1,48 @@
 [
-
 {
+       "Name": "Crazy Card Event ##NEW",
+       "Date": "28/02/2021",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_cb:30m_20210228"
+ },
+ {
        "Name": "25 Spins ##NEW",
+       "Date": "28/02/2021",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?ref=cm&c=(_)TdlFsqerFrr-9lKUaCM2aOOUE7ZRxtL_3n_Jb-l7HoU"
+ },
+ {
+       "Name": "2 Million ##NEW",
+       "Date": "28/02/2021",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSvqRHiJ_20210228"
+ },
+ {
+       "Name": "10 Spins-1 Million ##NEW",
+       "Date": "28/02/2021",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBdstmJP_20210228"
+ },
+{
+       "Name": "25 Spins",
        "Date": "27/02/2021",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIIUCpOP_20210227"
  },
 {
-       "Name": "25 Spins ##NEW",
+       "Name": "25 Spins",
        "Date": "27/02/2021",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBeCXNpQ_20210227"
  },
 {
-       "Name": "25 Spins ##NEW",
+       "Name": "25 Spins",
        "Date": "27/02/2021",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBTVAxjV_20210227"
  },
  {
-       "Name": "25 Million ##NEW",
+       "Name": "25 Million",
        "Date": "27/02/2021",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?ref=cm&c=(_)-SCVWNC8zSSoawY_-iA7zROopPKXs4OF2pYO5ELr73o"

@@ -1,6 +1,12 @@
 [
 
 {
+       "Name": "Clover Event ##NEW",
+       "Date": "16/03/2021",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_balloons:30m_20210316"
+ },
+{
        "Name": "2 Million ##NEW",
        "Date": "16/03/2021",
        "AdActivate":"yes",
